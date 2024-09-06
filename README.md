@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=00618A&height=120&section=header)
 
-## Entrará Mensagem
+## Seja Bem-vindo!
 <div align="center">
   <a href="https://github.com/Jhonata-Anderson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhonata-Anderson&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
