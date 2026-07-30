@@ -18,13 +18,6 @@ Full Stack Student | Front-end Focus | Learning Back-end | Tech Enthusiast
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
-### GitHub Stats
-
-<div>
-  <a href="https://github.com/Jhonata-Anderson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhonata-Anderson&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonata-Anderson&layout=compact&langs_count=7&theme=radical"/>
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jhonata-Anderson/Jhonata-Anderson/output/github-contribution-grid-snake-dark.svg">
