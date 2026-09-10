@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Olá! Eu sou o Jhonata Anderson 👋
+# Olá! Eu sou o Jhonata Anderson 
 
 **Front-end Developer in progress** | Estudante Full Stack | Foco em interfaces modernas
 
@@ -10,24 +10,24 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+###  Sobre mim
 
-- 💻 **Foco principal:** Desenvolvimento Front-end
-- 🎓 Cursando Full Stack, mas priorizando a criação de interfaces
-- 🚀 Gosto de construir experiências visuais modernas, responsivas e com boa usabilidade
-- 🌱 Atualmente aprofundando React, Next.js, TypeScript e Tailwind CSS
-- 🎯 Explorando o Back-end para me tornar um profissional mais completo
+-  **Foco principal:** Desenvolvimento Front-end
+-  Cursando Full Stack, mas priorizando a criação de interfaces
+-  Gosto de construir experiências visuais modernas, responsivas e com boa usabilidade
+-  Atualmente aprofundando React, Next.js, TypeScript e Tailwind CSS
+-  Explorando o Back-end para me tornar um profissional mais completo
 
 ---
 
-### 🔗 Conecte-se comigo
+###  Conecte-se comigo
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:jhonataanderson007@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/jhonata-anderson)
 
 ---
 
-### 🛠️ Tecnologias
+###  Tecnologias
 
 #### Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,25 +45,23 @@
 
 ---
 
-### 🚀 Projetos em destaque
+###  Projetos em destaque
 
-#### 🎬 [Lumina Streaming](https://github.com/Jhonata-Anderson/Lumina-Streaming)
+####  [Lumina Streaming](https://github.com/Jhonata-Anderson/Lumina-Streaming)
 Plataforma de streaming moderna com catálogo de filmes, pesquisa em tempo real e infinite scroll.  
 **Stack:** Next.js 15 • React 19 • TypeScript • Tailwind CSS • Framer Motion  
 🔗 [Ver demo](https://lumina-streaming-eight.vercel.app)
 
-#### 💰 [FinanceDash](https://github.com/Jhonata-Anderson/FinanceDash)
+####  [FinanceDash](https://github.com/Jhonata-Anderson/FinanceDash)
 Dashboard financeiro completo com autenticação, gráficos, tabela interativa, filtros e dark mode.  
 **Stack:** React 19 • TypeScript • Vite • TanStack Query • Tailwind CSS • Recharts  
 🔗 [Ver demo](https://financedash-board.vercel.app)
 
-#### 🎮 Outros projetos
+####  Outros projetos
 - [Memory Game](https://github.com/Jhonata-Anderson/Memory-Game) — Jogo da memória com animações 3D (HTML, CSS, JS)
 - [Detona Ralph](https://github.com/Jhonata-Anderson/detona-ralph-game) — Jogo estilo Whac-A-Mole (HTML, CSS, JS)
 
 ---
-
-### 🐍 Minha contribuição no GitHub
 
 <div align="center">
   <picture>
@@ -75,7 +73,7 @@ Dashboard financeiro completo com autenticação, gráficos, tabela interativa, 
 
 ---
 
-### 📊 Estatísticas do GitHub
+###  Estatísticas do GitHub
 <br>
 
 <div align="center">
