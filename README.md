@@ -4,7 +4,7 @@
 
 # Olá! Eu sou o Jhonata Anderson 
 
-**Front-end Developer in progress** | Estudante Full Stack | Foco em interfaces modernas
+**Front-end Developer** | React • Next.js • TypeScript | Estudante Full Stack
 
 </div>
 
