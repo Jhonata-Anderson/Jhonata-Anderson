@@ -12,11 +12,18 @@
 
 ###  Sobre mim
 
--  **Foco principal:** Desenvolvimento Front-end
--  Cursando Full Stack, mas priorizando a criação de interfaces
--  Gosto de construir experiências visuais modernas, responsivas e com boa usabilidade
--  Atualmente aprofundando React, Next.js, TypeScript e Tailwind CSS
--  Explorando o Back-end para me tornar um profissional mais completo
+Sou desenvolvedor Front-end com foco na criação de interfaces modernas,
+responsivas e funcionais.
+
+Atualmente trabalho principalmente com React, Next.js, TypeScript e
+Tailwind CSS, desenvolvendo projetos reais para aprimorar minhas
+habilidades e resolver problemas de interface e experiência do usuário.
+
+Tenho interesse em transformar ideias em produtos digitais bem estruturados,
+com atenção à responsividade, usabilidade e qualidade do código.
+
+Também estou estudando conceitos de Back-end para ampliar minha visão sobre
+o desenvolvimento de aplicações completas.
 
 ---
 
@@ -69,15 +76,6 @@ Dashboard financeiro completo com autenticação, gráficos, tabela interativa, 
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jhonata-Anderson/Jhonata-Anderson/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jhonata-Anderson/Jhonata-Anderson/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
-
----
-
-###  Estatísticas do GitHub
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhonata-Anderson&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
